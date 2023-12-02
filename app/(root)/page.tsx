@@ -1,3 +1,9 @@
+
+
 export default function Home() {
-  return <main>Threads</main>;
+  return (
+    <main>
+
+    </main>
+  );
 }
